@@ -3,7 +3,6 @@ set -g prefix M-a
 
 set -g mouse on
 set -g renumber-windows on
-set -g status-position top
 set -g allow-passthrough on
 
 set -g base-index 1
